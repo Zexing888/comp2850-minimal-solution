@@ -2,7 +2,7 @@
 
 **Module**: COMP2850 Human-Computer Interaction
 **Activity**: Low-risk needs-finding (peer interviews)
-**Date**: [2025-11-28]
+**Date**: [2025-11-30]
 **Researcher**: [Zexing Cai/201847927]
 
 ---
