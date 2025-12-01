@@ -57,7 +57,7 @@ Before starting, I will ask:
 ## Opt-Out Process
 
 If you change your mind:
-1. Email: [your-university-email]
+1. Email: [vccs1751@leeds,ac,uk]
 2. Include: interview date + pseudonym
 3. I'll delete notes within 48 hours
 4. Confirm deletion via email
